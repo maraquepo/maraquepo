@@ -1,4 +1,15 @@
-  #### Technologies
+  ### About Me
+  As a software engineer, I'm driven to tackle unique problems as it challenges me to learn and grow. The fast pace evolving nature of the software engineering field inspires me to continuously learn new technologies. Enrolling as a student in Hack Reactor's advanced software engineering immersive has allowed me to work with other software engineers in various sprints creating full-stack applications using Agile methodologies. 
+  
+  ### Top Repos
+  - [Book Nook](https://github.com/Screen-Devs/book-nook)
+  
+  - [Front End Capstone](https://github.com/Team-Quartz/Front-End-Capstone)
+  
+  - [Systems Design Capstone](https://github.com/maraquepo/products-matt)
+  
+  
+  ### Technologies
 <table>
   <tbody>
     <tr>
@@ -46,3 +57,6 @@
     </tr>
   </tbody>
 </table>
+
+### Links
+[LinkedIn](https://www.linkedin.com/in/matthew-raquepo/)
