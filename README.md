@@ -1,5 +1,9 @@
   ### About Me
-  As a software engineer, I'm driven to tackle unique problems as it challenges me to learn and grow. The fast pace evolving nature of the software engineering field inspires me to continuously learn new technologies. Enrolling as a student in Hack Reactor's advanced software engineering immersive has allowed me to work with other software engineers in various sprints creating full-stack applications using Agile methodologies. 
+  I’m a highly committed Full Stack Software Developer with a passion for delivering creative and innovative business solutions with
+forward-thinking vision. My leadership and communication skills from past jobs in the tech industry have allowed me to demonstrate
+my ability to collaborate effectively within cross-functional teams to deliver fast business values. With full stack development
+experience, I am excited to look for roles where I can grow my technical skills and demonstrate my problem-solving abilities. The fast
+pace evolving nature of the software engineering field inspires me to continuously learn about new technologies.
   
   ### Top Repos
   - [Book Nook](https://github.com/Screen-Devs/book-nook)
